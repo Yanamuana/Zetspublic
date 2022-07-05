@@ -12,13 +12,13 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281326024103']
-global.premium = ['6281326024103']
-global.ownername = 'Gaara Setyawan'
-global.botname = '𝗙𝗶𝗻𝗱𝗶𝗯𝗼𝘁 ⁵̄⁴͍⁵ ̵〆'
-global.packname = '𝗙𝗶𝗻𝗱𝗶𝗯𝗼𝘁 ⁵̄⁴͍⁵ ̵〆'
+global.owner = ['6285783062411']
+global.premium = ['6285783062411']
+global.ownername = 'Abrul Gans'
+global.botname = 'Yana V2⁵̄⁴͍⁵ ̵〆'
+global.packname = 'Yana V2⁵̄⁴͍⁵ ̵〆'
 global.gc = 'https://tinyurl.com/22phnfwc'
-global.limitawal = '100'
+global.limitawal = '10'
 global.author = '@gaaraxploite'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -36,7 +36,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 10
 }
 global.sc = fs.readFileSync('./media/sc.jpg')
 global.tq = fs.readFileSync('./media/tq.jpg')
